@@ -1,13 +1,8 @@
-# ✦ Smart Wishlist
+# Smart Wishlist
 
-Современное веб-приложение для управления списком желаний — с Kanban-доской, аналитикой, прогрессом накоплений и экспортом данных. Полностью локальное, без бэкенда и регистрации.
+Веб-приложение для управления списком желаний — с Kanban-доской, аналитикой, прогрессом накоплений и экспортом данных. Полностью локальное, без бэкенда и регистрации.
 
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-6-3178C6?style=flat-square&logo=typescript)
-![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-
----
+React/TypeScript/Vite
 
 ## Возможности
 
