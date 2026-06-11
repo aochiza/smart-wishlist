@@ -3,8 +3,11 @@
 Веб-приложение для управления списком желаний — с Kanban-доской, аналитикой, прогрессом накоплений и экспортом данных. Полностью локальное, без бэкенда и регистрации.
 
 ## React/TypeScript/Vite
-###Домен: smart-wishlist1-4f7gjjb9p-aochizas-projects.vercel.app
+### Домен: smart-wishlist1.vercel.app
+
 <img width="1280" height="696" alt="image" src="https://github.com/user-attachments/assets/feb03248-ca60-40b2-b5db-d8a3f0115fae" />
+
+<img width="1280" height="693" alt="image" src="https://github.com/user-attachments/assets/a51e5ffe-59ab-43be-a328-40c86c6538cb" />
 
 ---
 
